@@ -1,0 +1,563 @@
+{
+	"music.menu": {
+		"replace": true,
+		"sounds": [{
+				"name": "music/menu/menu2",
+				"stream": true
+			}, {
+				"name": "music/c418-door",
+				"stream": true
+			}, {
+				"name": "music/crinkles-blessing",
+				"stream": true
+			}, {
+				"name": "music/crinkles-frozen_desert",
+				"stream": true
+			}, {
+				"name": "music/minecraft_story_mode-soundtrack-main_theme",
+				"stream": true
+			}, {
+				"name": "music/jeremy_soule-sovngarde",
+				"stream": true
+			}, {
+				"name": "music/jeremy_soule-the_bannered_mare",
+				"stream": true
+			}, {
+				"name": "music/obfusc-amateur_cartography",
+				"stream": true
+			}, {
+				"name": "music/poa-supernatant",
+				"stream": true
+			}
+
+		]
+	},
+	"music.game": {
+		"sounds": [{
+			"name": "music/game/creative/creative2",
+			"stream": true
+		}, {
+			"name": "music/game/creative/creative6",
+			"stream": true
+		}, {
+			"name": "music/alecia_shepherd-creative3",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/alecia_shepherd-creative5",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/alecia_shepherd-creative6",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/alecia_shepherd-normalizer",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/alecia_shepherd-snowsong",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/adragante-blueved_nedeleg",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/c418-excuse",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-black_rose",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-empress",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-everglade",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-forgotten_forest",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-frozen_desert",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-glide",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-hydrangea",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-journey",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-martyr",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-overworld",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-serene",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/crinkles-somber",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/erang-horse_ride_through_the_stars",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-ancient_stones",
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-journeys_end",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-secunda",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-solitude",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-the_bannered_mare",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/makkon-absolution",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/obfusc-oceanic_glow",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/the_piano_guys-arwens_vigil",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/zero-project-appassionata",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/zero-project-epilogue",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/zero-project-nocturne",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/zero-project-under_the_same_moon",
+			"weight": 2,
+			"stream": true
+		}, {
+			"name": "music/zero-project-winter_princess",
+			"weight": 2,
+			"stream": true
+		}]
+	},
+	"music.end": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/alecia_shepherd-normalizer",
+			"stream": true
+		}, {
+			"name": "music/c418-excuse",
+			"stream": true
+		}, {
+			"name": "music/crinkles-archaic_times",
+			"stream": true
+		}, {
+			"name": "music/crinkles-archives",
+			"stream": true
+		}, {
+			"name": "music/crinkles-black_rose",
+			"stream": true
+		}, {
+			"name": "music/crinkles-blessing",
+			"stream": true
+		}, {
+			"name": "music/crinkles-clocks",
+			"stream": true
+		}, {
+			"name": "music/crinkles-eternal_garden",
+			"stream": true
+		}, {
+			"name": "music/crinkles-genesis",
+			"stream": true
+		}, {
+			"name": "music/crinkles-glide",
+			"stream": true
+		}, {
+			"name": "music/crinkles-ice_cavern",
+			"stream": true
+		}, {
+			"name": "music/crinkles-thieves_in_the_night",
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-journeys_end",
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-secunda",
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-solitude",
+			"stream": true
+		}, {
+			"name": "music/obfusc-sounds_from_shattered_seashells",
+			"stream": true
+		}, {
+			"name": "music/zero-project-under_the_same_moon",
+			"stream": true
+		}, {
+			"name": "music/stafford_bawler-the_spire",
+			"stream": true
+		}, {
+			"name": "music/stafford_bawler-water_palace",
+			"stream": true
+		}]
+	},
+	"music.dragon": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/jeremy_soule-one_they_fear",
+			"stream": true
+		}]
+	},
+	"music.credits": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/c418-door",
+			"stream": true
+			}]
+	},
+	"music.nether": {
+		"sounds": [{
+			"name": "music/crinkles-abandoned_lab",
+			"stream": true
+		}, {
+			"name": "music/crinkles-fragments",
+			"stream": true
+		}, {
+			"name": "music/crinkles-gatekeeper",
+			"stream": true
+		}, {
+			"name": "music/crinkles-marching",
+			"stream": true
+		}, {
+			"name": "music/crinkles-nature_overwhelming",
+			"stream": true
+		}, {
+			"name": "music/crinkles-thieves_in_the_night",
+			"stream": true
+		}, {
+			"name": "music/erang-arakno_kastle",
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-a_chance_meeting",
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-death_in_the_darkness",
+			"stream": true
+		}, {
+			"name": "music/jeremy_soule-standing_stones",
+			"stream": true
+		}, {
+			"name": "music/lord_lovidicus-ghostly_manor",
+			"stream": true
+		}, {
+			"name": "music/lord_lovidicus-telperion_and_laurelin",
+			"stream": true
+		}, {
+			"name": "music/lord_lovidicus-upon_the_wings_of_nine_divines",
+			"stream": true
+		}, {
+			"name": "music/lord_lovidicus-within_the_ayleid_ruin",
+			"stream": true
+		}, {
+			"name": "music/zero_project-the_dark_ages",
+			"stream": true
+		}, {
+			"name": "music/zero_project-the_darkest_hour",
+			"stream": true
+		}]
+	},
+	"music.creative": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/game/creative/creative2",
+			"stream": true
+		}, {
+			"name": "music/game/creative/creative6",
+			"stream": true
+		}]
+	},
+	
+	"record.13": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/erang-the_first_snow",
+			"stream": true
+		}]
+	},
+	"record.cat": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/the_piano_guys-code_name_vivaldi",
+			"stream": true
+		}]
+	},
+	"record.blocks": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/the_piano_guys-kung_fu_piano_cello_ascends",
+			"stream": true
+		}]
+	},
+	"record.chirp": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/the_piano_guys-cant_stop_the_feeling",
+			"stream": true
+		}]
+	},
+	"record.far": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/erang-i_dreamt_of_an_emerald_forest",
+			"stream": true
+		}]
+	},
+	"record.mall": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/erang-feast_of_the_moon",
+			"stream": true
+		}]
+	},
+	"record.mellohi": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/the_piano_guys-uncharted",
+			"stream": true
+		}]
+	},
+	"record.stal": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/jeremy_soule-around_the_fire",
+			"stream": true
+		}]
+	},
+	"record.strad": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/the_piano_guys-celloopa",
+			"stream": true
+		}]
+	},
+	"record.ward": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/jeremy_soule-dragonborn",
+			"stream": true
+		}]
+	},
+	"record.11": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/jon_schmidt-all_of_me",
+			"stream": true
+		}]
+	},
+	"record.wait": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/jon_schmidt-waterfall",
+			"stream": true
+		}]
+	},
+	
+	"entity.wither.spawn": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/jeremy_soule-steel_on_steel",
+			"stream": true
+		}]
+	},
+	"entity.wither.death": {
+		"replace": true,
+		"sounds": [{
+			"name": "music/jeremy_soule-one_they_fear",
+			"stream": true
+		}]
+	},
+	
+	"entity.player.burp": {
+		"sounds": [{
+			"name": "random/belch",
+			"name": "random/belch2"
+		}]
+	},
+	"block.dispenser.launch": {
+		"replace": true,
+		"sounds": [{
+			"type": "event",
+			"name": "entity.arrow.shoot"
+		}]
+	},
+	"block.wooden_door.close": {
+        "replace": true,
+        "sounds": [
+            "random/door_close"
+        ]
+    },
+    "block.wooden_door.open": {
+        "replace": true,
+        "sounds": [
+            "random/door_open"
+        ]
+    },
+	"ui.button.click": {
+		"replace": true,
+		"sounds": [
+			"click/ui_click"
+		]
+	},
+	"block.lever.click": {
+		"replace": true,
+		"sounds": [
+			"click/lever"
+		]
+	},
+	"block.comparator.click": {
+		"replace": true,
+		"sounds":[
+			"click/comparator_click"
+		]
+	},
+	"block.wood_button.click_off": {
+		"replace": true,
+		"sounds":[
+			"click/wooden_button"
+		]
+	},
+	"block.wood_button.click_on": {
+		"replace": true,
+		"sounds":[
+			"click/wooden_button"
+		]
+	},
+	"block.stone_button.click_off": {
+		"replace": true,
+		"sounds":[
+			"click/stone_button"
+		]
+	},
+	"block.stone_button.click_on": {
+		"replace": true,
+		"sounds":[
+			"click/stone_button"
+		]
+	},
+	"block.wood_pressureplate.click_off": {
+		"replace": true,
+		"sounds":[
+			"click/wooden_pressure_plate"
+		]
+	},
+	"block.wood_pressureplate.click_on": {
+		"replace": true,
+		"sounds":[
+			"click/wooden_pressure_plate"
+		]
+	},
+	"block.stone_pressureplate.click_off": {
+		"replace": true,
+		"sounds":[
+			"click/stone_pressure_plate"
+		]
+	},
+	"block.stone_pressureplate.click_on": {
+		"replace": true,
+		"sounds":[
+			"click/stone_pressure_plate"
+		]
+	},
+	"block.metal_pressureplate.click_off": {
+		"replace": true,
+		"sounds":[
+			"click/metal_pressure_plate"
+		]
+	},
+	"block.metal_pressureplate.click_on": {
+		"replace": true,
+		"sounds":[
+			"click/metal_pressure_plate"
+		]
+	},
+	"block.tripwire.click_on": {
+		"replace": true,
+		"sounds":[
+			"click/tripwire"
+		]
+	},
+	"block.tripwire.click_off": {
+		"replace": true,
+		"sounds":[
+			"click/tripwire"
+		]
+	},
+	"block.tripwire.attach": {
+		"replace": true,
+		"sounds":[
+			"click/tripwire"
+		]
+	},
+	"block.tripwire.detach": {
+		"replace": true,
+		"sounds":[
+			"click/tripwire"
+		]
+	},
+	"block.portal.ambient": {
+		"replace": true,
+		"sounds": [
+			"silence"
+		]
+	},
+	"block.redstone_torch.burnout": {
+		"replace": true,
+		"sounds": [
+			"silence"
+		]
+	},
+	"block.dispenser.dispense": {
+		"replace": true,
+		"sounds": [
+			"silence"
+		]
+	},
+	"block.dispenser.fail": {
+		"replace": true,
+		"sounds": [
+			"silence"
+		]
+	}
+}
